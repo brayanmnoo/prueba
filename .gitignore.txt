@@ -1,0 +1,22 @@
+# Ignorar configuraciones de usuario y archivos del sistema
+*.log
+*.ini
+*.dat
+*.lst
+*.blf
+*.regtrans-ms
+NTUSER.*
+AppData/
+Application Data/
+.vscode/
+.ipython/
+.matplotlib/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Music/
+Pictures/
+Saved Games/
+Videos/
+OneDrive/
